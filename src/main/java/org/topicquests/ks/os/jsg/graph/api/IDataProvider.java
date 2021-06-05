@@ -9,7 +9,7 @@ import java.util.List;
 
 import org.topicquests.es.ProviderEnvironment;
 import org.topicquests.ks.api.ITicket;
-import org.topicquests.ks.os.jsg.tm.merge.VirtualizerHandler;
+import org.topicquests.ks.os.jsg.graph.merge.VirtualizerHandler;
 import org.topicquests.pg.PostgresConnectionFactory;
 import org.topicquests.pg.api.IPostgresConnection;
 import org.topicquests.support.api.IResult;

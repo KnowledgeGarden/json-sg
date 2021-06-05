@@ -11,8 +11,8 @@ import org.topicquests.ks.os.jsg.graph.api.IDataProvider;
 import org.topicquests.ks.os.jsg.graph.api.IProxyModel;
 import org.topicquests.ks.os.jsg.graph.api.ITupleQuery;
 import org.topicquests.ks.os.jsg.graph.api.IVirtualizer;
-import org.topicquests.ks.os.jsg.tm.merge.DefaultVirtualizer;
-import org.topicquests.ks.os.jsg.tm.merge.VirtualizerHandler;
+import org.topicquests.ks.os.jsg.graph.merge.DefaultVirtualizer;
+import org.topicquests.ks.os.jsg.graph.merge.VirtualizerHandler;
 import org.topicquests.support.RootEnvironment;
 
 /**
